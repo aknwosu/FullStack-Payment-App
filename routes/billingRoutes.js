@@ -1,5 +1,5 @@
 module.exports = (app) => {
-app.post("/api/stripe", (req, res) => {
+app.post("/api/stripe/", (req, res) => {
 
 });
 }
